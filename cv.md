@@ -1,4 +1,4 @@
-1. Dmitriy "TeddyBe"
+1. Dmitry "TeddyBe"
 2. discord: teddybeer1
 3. I'm a good man and I am a programmer
 4. PHP, JavaScript, HTML, CSS, Oracle, MySQL, MS-SQL, Java.
