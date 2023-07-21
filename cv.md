@@ -1,5 +1,10 @@
-1. Dmitry "TeddyBe"
-2. discord: teddybeer1
+# Dmitry "iTeddyBe"
+### Junior Frontend Developer
+#### Contact information:
+
+**Phone:** +7-900-100-20-30<br/>
+**E-mail:** iteddybe@gmail.com<br/>
+**Discord**: iTeddyBEER(@iTeddyBe)<br/>
 3. I'm a good man and I am a programmer
 4. PHP, JavaScript, HTML, CSS, Oracle, MySQL, MS-SQL, Java.
 5. Example code: ...
